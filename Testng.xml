@@ -11,9 +11,10 @@
     <test name="loginTest">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="com.inetbanking.testcases.TC_LoginTest_001"/>
+            <!--<class name="com.inetbanking.testcases.TC_LoginTest_001"/>-->
             <!--<class name="com.inetbanking.testcases.TC_LoginDDT_002"/>-->
-            <class name="com.inetbanking.testcases.TC_AddCustommerTest_003"/>
+            <!--<class name="com.inetbanking.testcases.TC_AddCustommerTest_003"/>-->
+            <class name="com.inetbanking.testcases.WebdriverCheckboxes"/>
         </classes>
     </test>
 </suite>
